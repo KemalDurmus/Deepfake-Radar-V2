@@ -1,4 +1,4 @@
-# Deepfake-Radar-V2
+# Deepfake-Radar
 C# ve Python ile geliştirilmiş, derin öğrenme tabanlı Deepfake Ses Tespit ve Savunma Sistemi.
 # 🛡️ Deepfake Audio Radar & Defense System
 
